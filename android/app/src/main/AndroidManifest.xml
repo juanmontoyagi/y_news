@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="y_news"
+        android:label="Y News"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/ic_launcher">flutter build apk
         <activity
             android:name=".MainActivity"
             android:exported="true"
